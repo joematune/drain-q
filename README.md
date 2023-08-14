@@ -2,7 +2,7 @@
 
 Organic & environmentally friendly queue drainer
 
-### Executing the binary rom anywhere
+### Executing the binary from anywhere
 
 To make a Go binary executable callable from anywhere in the terminal, you need to place it in a directory that is included in your system's PATH environment variable. This way, when you type the binary's name in the terminal, the system will be able to locate and execute it. Here's what you can do:
 
