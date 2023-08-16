@@ -1,2 +1,2 @@
 build:
-	go build -o drainq drain-q/drain-q.go && chmod +x drainq
+	go build -o drainq main.go && chmod +x drainq
